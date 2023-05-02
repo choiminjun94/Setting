@@ -44,22 +44,30 @@ MAC PASSWORD 입력
 <br>
 
 ```text
+
 8자리 비밀번호를 만들면된다.
+
 ```
 
 <img src="./img/10.png">
 <br>
+
 ```text
+
 MAC PASSWORD 입력
+
 ```
 
 <img src="./img/11.png">
 <br>
+
 <img src="./img/12.png">
+<br>
 
 ## 3. MySQL 실행
 
 ```cmd
+
 1. cd /usr/local/mysql/bin
 2. ./mysql -uroot -p
 3. password 입력

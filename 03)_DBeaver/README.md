@@ -21,8 +21,7 @@ URL : https://dbeaver.io/download/
 <br>
 <img src="./img/3.png">
 <br>
-<img src="./img/4.png">
-<br>
+
 ## 3. DBeaver 실행 및 Mysql 설치 (순서대로 진행)
 
 <img src="./img/4.png">
@@ -37,6 +36,7 @@ URL : https://dbeaver.io/download/
 <br>
 <img src="./img/8.png">
 
+---------------------------------------------------------------------------------------
 ## 4. 발생 가능성 있는 오류
 
 ### 1. public key retrieval is not allowed
