@@ -16,18 +16,22 @@ URL : https://dev.mysql.com/downloads/
 ```
 
 <img src="./img/1.png">
+<br>
 <img src="./img/2.png">
-
+<br>
 ## 2. MySQL 다운 파일 실행
 
 <img src="./img/3.png">
+<br>
 <img src="./img/4.png">
 <br>
 
 ## 2. MySQL 설치
 
 <img src="./img/5.png">
+<br>
 <img src="./img/6.png">
+<br>
 <img src="./img/7.png">
 
 ```text
@@ -35,19 +39,22 @@ MAC PASSWORD 입력
 ```
 
 <img src="./img/8.png">
+<br>
 <img src="./img/9.png">
+<br>
 
 ```text
 8자리 비밀번호를 만들면된다.
 ```
 
 <img src="./img/10.png">
-
+<br>
 ```text
 MAC PASSWORD 입력
 ```
 
 <img src="./img/11.png">
+<br>
 <img src="./img/12.png">
 
 ## 3. MySQL 실행
