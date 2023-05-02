@@ -19,6 +19,7 @@ URL : https://dev.mysql.com/downloads/
 <br>
 <img src="./img/2.png">
 <br>
+
 ## 2. MySQL 다운 파일 실행
 
 <img src="./img/3.png">
@@ -26,7 +27,8 @@ URL : https://dev.mysql.com/downloads/
 <img src="./img/4.png">
 <br>
 
-## 2. MySQL 설치
+## 3.MySQL 설치
+
 
 <img src="./img/5.png">
 <br>

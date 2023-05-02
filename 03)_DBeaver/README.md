@@ -5,11 +5,13 @@
 <br>
 URL : https://dbeaver.io/download/
 
+<br>
+
 <img src="./img/1.png">
 
 ## 2. DBeaver 설치
 
-```text
+``` text
 
 1. 다운로드 파일 실행
 2. DBeaver icon Applications에 드래그
