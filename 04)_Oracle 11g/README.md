@@ -8,12 +8,12 @@ URL : https://www.docker.com/
 
 ![스크린샷 2023-05-22 오후 8 15 00](https://github.com/choiminjun94/Setting/assets/60457431/89c27a2b-1afd-4de0-9540-e0f60fd7b5ee)
 
-### 설치
+## 설치
 
 ![스크린샷 2023-05-22 오후 8 14 31](https://github.com/choiminjun94/Setting/assets/60457431/88b0f23d-5407-4276-ae33-da71ca2a25b9)
 ![스크린샷 2023-05-22 오후 8 21 03](https://github.com/choiminjun94/Setting/assets/60457431/e15f9b29-b388-4968-bb42-4bcdb8d42a9a)
 
-### 오라클 설치 
+## 오라클 설치 
 
 ### 도커 설치 확인 
 
@@ -63,5 +63,24 @@ docker run --name oracle11g -d -p 8080:8080 -p 1521:1521 jaspeen/oracle-xe-11g
 
 ```
 ![스크린샷 2023-05-23 오전 8 01 38](https://github.com/choiminjun94/Setting/assets/60457431/6762bc8c-4898-409c-9fb9-f6639557cc72)
+
+## 디비버 연결 
+
+``` 
+
+Database : xe 
+UserName : system
+Password : oracle 
+
+Test Connection > Download > 확인 
+
+```
+
+![스크린샷 2023-05-23 오전 8 05 06](https://github.com/choiminjun94/Setting/assets/60457431/f5e6f694-326e-469f-a79e-91aee46e0257)
+
+![스크린샷 2023-05-22 오후 8 34 30](https://github.com/choiminjun94/Setting/assets/60457431/d2def9c0-aed8-41d5-826e-3f68b24457d3)
+
+![스크린샷 2023-05-23 오전 8 05 20](https://github.com/choiminjun94/Setting/assets/60457431/f340c68e-1150-4c3f-8018-1086da2d0e7b)
+
 
 
