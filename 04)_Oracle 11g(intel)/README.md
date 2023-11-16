@@ -1,5 +1,3 @@
-# 0522
-
 ## Docker Install
 
 URL : https://www.docker.com/
