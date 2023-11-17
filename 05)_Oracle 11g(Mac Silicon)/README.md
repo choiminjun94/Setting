@@ -1,4 +1,4 @@
-# Oracle 맥 실리콘 설치
+# 05)_Oracle 11g(Mac Silicon)
 
 ## homebrew install 
 

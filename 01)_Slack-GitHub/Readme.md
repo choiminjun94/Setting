@@ -1,4 +1,4 @@
-# GitHub Slack 연동
+# 01)_GitHub Slack 연동
 
 ## 1. Slack에서 GitHub 설치
 

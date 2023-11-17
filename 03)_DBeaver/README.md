@@ -1,4 +1,4 @@
-# DBeaver 설치
+# 03)_DBeaver 설치
 
 ## 1. DBeaver Downloads
 

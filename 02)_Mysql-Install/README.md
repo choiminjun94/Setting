@@ -1,4 +1,4 @@
-# Mysql 설치
+# 02)_Mysql 설치
 
 ## 1. Mysql Downloads
 

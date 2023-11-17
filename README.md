@@ -8,4 +8,6 @@
 
 ### 03.Deaver
 
-### 04.Oracle 11g
+### 04.Oracle 11g (Intel)
+
+### 05. Oracle 11g(Mac Silicon)
