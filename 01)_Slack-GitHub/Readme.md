@@ -51,12 +51,13 @@
 <img src="./img/9.png">
 <br>
 
-### 채널에서 아래의 코드 붙여 놓기
+### 채널에서 아래의 코드 붙여 놓기 (레포지토리 여러개를 추가할 수 있다.)
 
 ```text
 
 /github subscribe {owner}/{repository이름}
 
+{}는 명령어 입력시에는 사용하지 않음
 ```
 
 <br>

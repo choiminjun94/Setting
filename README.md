@@ -2,7 +2,7 @@
 
 ## 정리한 목록
 
-### 01.Slack-Github 연동(수정!!)
+### 01.Slack-Github 연동
 
 ### 02.Mysql
 
