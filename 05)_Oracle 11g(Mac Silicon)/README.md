@@ -92,4 +92,41 @@ docker run -e ORACLE_PASSWORD=비번 -p 1521:1521 -d gvenzl/oracle-xe
 
 ```
 
+## 디비버 연결
 
+```sql
+
+Database : xe
+UserName : system
+Password : 자신이 저장한것 
+
+Test Connection > Download > 확인
+
+```
+
+사진 추가
+
+### 권한 부여
+
+```sql
+
+grant 권한 to id;
+grant connect, resource, dba to 아이디;
+
+```
+
+### 변경사항 저장
+
+```sql
+
+commit;
+
+```
+
+### 계정 생성 확인
+
+```sql
+
+select * from all_users;
+
+```
