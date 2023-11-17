@@ -103,8 +103,7 @@ Password : 자신이 저장한것
 Test Connection > Download > 확인
 
 ```
-
-사진 추가
+![스크린샷 2023-11-18 오전 1 30 00](https://github.com/choiminjun94/Setting/assets/60457431/ed9cd863-9ab8-4dbb-9253-20fb81987d70)
 
 ### 권한 부여
 
@@ -130,3 +129,5 @@ commit;
 select * from all_users;
 
 ```
+![스크린샷 2023-11-18 오전 1 31 18](https://github.com/choiminjun94/Setting/assets/60457431/0562a6ed-fab8-48d3-91cb-e04631ec0167)
+
