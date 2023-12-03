@@ -131,3 +131,45 @@ select * from all_users;
 ```
 ![스크린샷 2023-11-18 오전 1 31 18](https://github.com/choiminjun94/Setting/assets/60457431/0562a6ed-fab8-48d3-91cb-e04631ec0167)
 
+
+## 맥 재실행 시 도커 실행 및 오라클 실행 
+
+
+``` cmd 
+
+colima start --memory 4 --arch x86_64
+
+```
+사진 추가
+
+```cmd 
+
+docker ps -a 
+
+```
+사진 추가 
+
+```cmd
+
+docker start CONTANER ID
+
+ex) docker start 137221c44730
+
+```
+
+```sql 
+
+docker exec -it scott sqlplus
+
+```
+
+```sql 
+
+Enter user-name: system
+Enter password: oracle
+
+```
+
+ 
+
+
