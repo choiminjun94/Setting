@@ -140,14 +140,18 @@ select * from all_users;
 colima start --memory 4 --arch x86_64
 
 ```
-사진 추가
+
+![스크린샷 2023-12-03 오후 3 52 09](https://github.com/choiminjun94/Setting/assets/60457431/4119805b-9c70-4678-9806-5f4231a22e75)
+
 
 ```cmd 
 
 docker ps -a 
 
 ```
-사진 추가 
+
+![스크린샷 2023-12-03 오후 3 52 33](https://github.com/choiminjun94/Setting/assets/60457431/4643e4f7-1fbc-48bc-bc8e-923f6af2a2bd)
+
 
 ```cmd
 
@@ -157,11 +161,16 @@ ex) docker start 137221c44730
 
 ```
 
+![스크린샷 2023-12-03 오후 3 52 47](https://github.com/choiminjun94/Setting/assets/60457431/b4de1046-2cb0-4caa-855f-841c559d2898)
+
+
 ```sql 
 
 docker exec -it scott sqlplus
 
 ```
+
+![스크린샷 2023-12-03 오후 3 53 11](https://github.com/choiminjun94/Setting/assets/60457431/946439b8-6c0f-4542-aafa-539e6d9a3bed)
 
 ```sql 
 
@@ -169,6 +178,10 @@ Enter user-name: system
 Enter password: oracle
 
 ```
+
+![스크린샷 2023-12-03 오후 3 53 19](https://github.com/choiminjun94/Setting/assets/60457431/6c76795e-b57c-48bc-b174-39fd2950ab3c)
+
+
 
  
 
